@@ -1,0 +1,70 @@
+.section-ten {
+    margin-top: 50px;
+}
+
+.firstiline {
+    display: flex;
+    justify-content: space-between;
+}
+h2.topic {
+    font-size: 50px;
+    font-weight: 900;
+}
+.media-icons {
+    margin-top: 17px;
+    font-size: 30px;
+    padding: -5px;
+}
+.social {
+    padding-right: 15px;
+}
+.second-line {
+    padding-top: 35px;
+}
+input.button.btn {
+    margin-left: -5px;
+    padding: 4px 50px;
+}
+
+a.SAI {
+    color: #000000eb;
+}
+.col-6.footer-2 {
+    display: flex;
+}
+li.link {
+    list-style: none;
+}
+li.link {
+    list-style: none;
+    margin-top: 40px;
+    font-size: 15px;
+}
+.bottom-footer {
+    color: #fbe6e6;
+    background-color: black;
+    padding: 10px;
+}
+.col-6.bottom-left.footer {
+    padding: 60px;
+}
+.col-6.down-footer {
+    padding-top: 30px;
+    padding-right: 1;
+
+}
+.col-6.bottom-mid.footer {
+    display: flex;
+    justify-content: space-between;
+}
+.mid-footer {
+    margin-top: 65px;
+}
+.col-6.rightmost-bttom img {
+    margin-top: 30px;
+    padding-left: 100px;
+}
+.col-4.logo img {
+    padding-right: : 90px;
+    padding-left: 90px;
+}
